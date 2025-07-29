@@ -1,0 +1,19 @@
+{
+    "name": "相册表盘Pro",
+    "icon": "icon.png",
+    "version": "1.0",
+    "description": "导入适配后的表盘背景图片，替换默认的表盘背景",
+    "author": "Mizuki",
+    "website": "https://github.com/zyhsck/ab-",
+    "entry": "main.js",
+    "api_level": 1,
+    "permissions": [
+        "filesystem",
+        "ui",
+        "native",
+        "lifecycle",
+        "network",
+        "device"
+    ],
+    "additional_files": []
+}
